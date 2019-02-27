@@ -1,0 +1,30 @@
+{
+    "name": "goran/cmsgoran",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+    
+    "autoload": {
+        
+        "classmap": [
+            
+            "classes"
+            
+        ]
+        
+        
+        
+    },
+    
+    
+    "authors": [
+        {
+            "name": "Goran Stankovski",
+            "email": "g_stankovski@hotmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^3.3",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
