@@ -6,7 +6,7 @@ Includes a lot of featuers as:
   Safe connections to DB.
   Front and back end.
   Administrator and subscriber level.
-  Dynamic show of contec (Posts, Categories)
+  Dynamic show of content (Posts, Categories)
   Great back end fro easy adding and bulk manipulatiing of content (posts, users, categories).
   
   
