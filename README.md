@@ -7,6 +7,6 @@ Includes a lot of featuers as:
   Front and back end.
   Administrator and subscriber level.
   Dynamic show of content (Posts, Categories)
-  Great back end fro easy adding and bulk manipulatiing of content (posts, users, categories).
+  Great back end for easy adding and bulk manipulatiing of content (posts, users, categories).
   
   
