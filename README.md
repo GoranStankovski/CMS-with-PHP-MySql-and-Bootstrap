@@ -1,4 +1,4 @@
-# cmsgoran
+# CMS with PHP, MySql and Bootstrap
 CMS from scratch made with PHP, MySql and Bootstrap
 
 This is full code of a complete CMS (Content management system) made following tutorials (contact me for info) .
